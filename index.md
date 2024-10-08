@@ -9,3 +9,9 @@
 ```javascript
 let hello = "Hello, world!";
 ```
+
+#### Task list items
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
